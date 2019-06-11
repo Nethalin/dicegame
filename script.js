@@ -5,27 +5,27 @@
 
     // This is my array of dice which i'll use to randomly select a dice from.
      let theDice = [{
-        src: "../img/dice1.png",
+        src: "./img/dice1.png",
         width: "300",
         height: "300",
      },{
-         src:"../img/dice2.png",
+         src:"./img/dice2.png",
          width: "300",
          height: "300",
      }, {
-        src:"../img/dice3.png",
+        src:"./img/dice3.png",
         width: "300",
         height: "300",
      }, {
-        src:"../img/dice4.png",
+        src:"./img/dice4.png",
         width: "300",
         height: "300",
      }, {
-        src:"../img/dice5.png",
+        src:"./img/dice5.png",
         width: "300",
         height: "300",
      }, {
-        src:"../img/dice6.png",
+        src:"./img/dice6.png",
         width: "300",
         height: "300",
      }];
